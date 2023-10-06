@@ -1,6 +1,6 @@
 ![logo](https://github.com/kambleprathamesh/kambleprathamesh/blob/main/-PRATHAMESH%20KAMBLE.png )
 <h1 align="center">Hi 👋, I'm Prathamesh kamble</h1>
-<h3 align="center">"I'm a Full Stack Web Developer, passionate about crafting seamless online experiences. With a strong command of front-end technologies like HTML, CSS, and JavaScript, as well as back-end expertise in Node.js and database optimization, I thrive on turning ideas into reality. I enjoy bridging the gap between design and functionality to create user-friendly, high-performance websites and applications. Let's collaborate and bring your digital vision to life!"</h3>
+<h3 align="center">"I'm a Full Stack Web Developer, passionate about crafting seamless online experiences. With a strong command of front-end technologies like HTML, CSS, and JavaScript, as well as back-end expertise in Node.js and database optimization, I thrive on turning ideas into reality.</h3>
 
 
 <img align="right" alt="Coding" width="400px" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"> 

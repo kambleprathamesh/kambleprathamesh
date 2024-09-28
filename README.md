@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="400px" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"> 
 
-- 🌱 I’m currently learning **Tailwind framework and Mern Stack**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kambleprathamesh](https://github.com/kambleprathamesh)
 
 - 📫 How to reach me **https://www.linkedin.com/in/prathamesh-kamble-85a214212/**

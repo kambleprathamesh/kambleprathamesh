@@ -22,8 +22,8 @@
 
 ## 🛠️ Technical Skills:
 
-- **Languages:** Java, JavaScript, SQL, HTML, CSS
-- **Frontend Development:** ReactJS, Redux, TailwindCSS, Bootstrap
+- **Languages:** Java, JavaScript, SQL
+- **Frontend Development:** ReactJS, Redux, TailwindCSS, Bootstrap, HTML, CSS
 - **Backend Development:** NodeJS, ExpressJS
 - **Database:** MongoDB
 - **Version Control:** Git, GitHub

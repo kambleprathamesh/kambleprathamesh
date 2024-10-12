@@ -1,4 +1,4 @@
-!![logo](https://github.com/user-attachments/assets/bd26be2c-e493-4dd3-a022-751c6cef082d)
+![logo](https://github.com/user-attachments/assets/bd26be2c-e493-4dd3-a022-751c6cef082d)
 
 
 <h1 align="center">Hi 👋, I'm Prathmesh Kamble</h1>

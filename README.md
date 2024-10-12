@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Kamble</h1>
 <h3 align="center">I'm a Full Stack Web Developer, passionate about open-source contributions and MERN stack development. I focus on crafting seamless online experiences by turning ideas into reality using modern technologies.</h3>
 
-<img align="right" alt="Coding" width="400px" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+<img align="right" alt="Coding" width="500px" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 ---
 

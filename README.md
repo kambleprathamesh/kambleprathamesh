@@ -55,8 +55,8 @@ Percentage: 87% (June 2020 - April 2021)
 
 ## 🏆 Extracurricular Achievements & Hackathons:
 
-- ##INNER SMART INDIA HACKATHON 2024.
-- - **Speaker, GitHub Hands-on Session:** Led sessions on problem-solving, coding, and HacktoberFest, assisting students in improving their technical skills.
+- ### WINNER SMART INDIA HACKATHON 2024
+- **Speaker, GitHub Hands-on Session:** Led sessions on problem-solving, coding, and HacktoberFest, assisting students in improving their technical skills.
 - **1st Place, Recursion 5.0 Hackathon:** Won first place in a 24-hour hackathon, competing against over 560 teams at Rajiv Gandhi Institute of Technology.
 - **1st Place, National Level Project Presentation (Electroviz):** Outperformed among 50+ teams at Datta Meghe College of Engineering.
 - **Top 5 Finishes:** GITS Hackathon 2.0, Vega Hackathon, HackSparrow Hackathon.

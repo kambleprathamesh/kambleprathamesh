@@ -10,7 +10,7 @@
 
 ## 🌐 Connect with me:
 
-- **Portfolio:** [prathmesh-kamble.vercel.app](https://prathmesh-kamble.vercel.app)
+- **Portfolio:** [prathmeshkamble.in](https://prathmeshkamble.in)
 - **LinkedIn:** [linkedin.com/in/prathamesh-kamble19/](https://www.linkedin.com/in/prathamesh-kamble19/)
 - **GitHub:** [github.com/kambleprathamesh](https://github.com/kambleprathamesh)
 
